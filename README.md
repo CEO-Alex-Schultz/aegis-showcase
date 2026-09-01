@@ -52,8 +52,3 @@
 
 </div>
 
-## Контакты
-
-📧 [Ваш email или Telegram]
-Aegis_README.md
-Показан объект "Aegis_README.md".
