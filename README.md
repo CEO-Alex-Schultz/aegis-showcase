@@ -46,8 +46,10 @@
 ## Скриншоты
 
 <div align="center">
-  <img src="image_c745e9.png" alt="Главный экран Aegis" width="45%" style="margin-right: 5%;" />
-  <img src="image_c74628.png" alt="Настройки Aegis" width="45%" />
+  <img width="451" height="683" alt="image" src="https://github.com/user-attachments/assets/c3eb2205-d31f-49f3-93c3-66a3e98cb07c" />
+
+  <img width="456" height="683" alt="image" src="https://github.com/user-attachments/assets/72f970d6-327b-4af6-b796-03b185456663" />
+
 </div>
 
 ## Контакты
